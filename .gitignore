@@ -1,0 +1,16 @@
+# Local test outputs
+demo_run/
+demo_run_v2/
+
+# OS junk
+.DS_Store
+
+# Editor swap files
+*.swp
+*~
+
+# Common artifacts
+*.tar
+*.tar.gz
+*.sif
+*.log

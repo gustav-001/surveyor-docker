@@ -64,8 +64,6 @@ ENV PATH="/opt/SurVeyor/bin:${PATH}"
 
 WORKDIR /data
 
-ENTRYPOINT ["python3", "/opt/SurVeyor/surveyor.py"]
-
 CMD ["--help"]
 
 
